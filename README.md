@@ -1,2 +1,2 @@
 # ridge
-⚡ Blazingly-fast accounting. 
+⚡ Blazingly-fast accounting with zero-cost abstractions.
